@@ -1,0 +1,24 @@
+{
+  "relays": [
+    {
+      "hostname": "boot.net.anydesk.com",
+      "ip": "212.102.60.111"
+    },
+    {
+      "hostname": "boot.net.anydesk.com",
+      "ip": "212.102.60.76"
+    },
+    {
+      "hostname": "boot.net.anydesk.com",
+      "ip": "57.129.19.1"
+    },
+    {
+      "hostname": "boot.net.anydesk.com",
+      "ip": "15.235.218.149"
+    },
+    {
+      "hostname": "boot.net.anydesk.com",
+      "ip": "15.235.218.150"
+    }
+  ]
+}

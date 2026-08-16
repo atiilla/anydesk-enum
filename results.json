@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-08-16T14:28:37.407584+00:00",
+  "local_id": "<lab-machine-1>",
+  "total_probed": 1,
+  "valid_count": 1,
+  "invalid_count": 0,
+  "online_count": 1,
+  "ip_leaked_count": 1,
+  "results": [
+    {
+      "target_id": "<lab-machine-2>",
+      "valid": true,
+      "online": true,
+      "client_id": "<lab-machine-2>",
+      "fingerprint": "<redacted-fpr>",
+      "source_ip": "<redacted-public-ip>:<port>",
+      "relay_id": "<relay-id>",
+      "remote_os": null,
+      "remote_version": null,
+      "status_text": null
+    }
+  ]
+}

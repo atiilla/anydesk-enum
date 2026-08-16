@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-08-16T14:42:12.841891+00:00",
+  "platform": "linux",
+  "local_id": "<lab-machine-1>",
+  "total_probed": 1,
+  "valid_count": 1,
+  "invalid_count": 0,
+  "online_count": 1,
+  "ip_leaked_count": 1,
+  "internal_ip_leaked_count": 1,
+  "results": [
+    {
+      "target_id": "<lab-machine-2>",
+      "valid": true,
+      "online": true,
+      "client_id": "<lab-machine-2>",
+      "fingerprint": "<redacted-short-fpr>",
+      "fingerprint_full": "<redacted-full-fpr-40-chars>",
+      "source_ip": "<redacted-public-ip>:<port>",
+      "relay_id": "<relay-id>",
+      "remote_os": null,
+      "remote_version": null,
+      "remote_internal_ips": [
+        "<docker-bridge-ip>",
+        "<lan-ip>",
+        "<link-local-ip>",
+        "<public-ip>",
+        "<vbox-ip>"
+      ],
+      "direct_candidates": [
+        "<libvirt-ip>:7070",
+        "<tailscale-ip>:7070",
+        "<docker-bridge-1>:7070",
+        "<docker-bridge-2>:7070",
+        "<docker-bridge-3>:7070",
+        "<docker-bridge-4>:7070",
+        "<docker-bridge-5>:7070",
+        "<lan-ip>:7070",
+        "<public-ip>:7070",
+        "<public-ip>:<nat-port>"
+      ],
+      "status_text": null
+    }
+  ]
+}
