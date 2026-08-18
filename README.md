@@ -32,8 +32,7 @@ At ~250ms per lookup, an attacker can validate thousands of IDs per hour. The ID
 
 Relay response time: **~250ms**.
 
-
-[![asciicast](https://asciinema.org/a/AyjM7A0J7aROCJLq.svg)](https://asciinema.org/a/AyjM7A0J7aROCJLq)
+[![asciicast](https://asciinema.org/a/QCrSEcNAkFHcwMDk.svg)](https://asciinema.org/a/QCrSEcNAkFHcwMDk)
 
 ### Trace output (lab)
 
